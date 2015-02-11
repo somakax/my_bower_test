@@ -1,0 +1,25 @@
+{
+  "name": "my_bower_test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/somakax/my_bower_test",
+  "authors": [
+    "Sourav Mukhopadhyay <sourav.mukhopadhyay@gmail.com>"
+  ],
+  "description": "Test Package for bower",
+  "main": "tt.js",
+  "keywords": [
+    "test",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
